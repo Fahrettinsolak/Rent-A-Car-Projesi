@@ -7,7 +7,7 @@ Aşağıdaki linten detaylı bir sunuma ulaşabilrisiniz.
 
 [Eagle.pdf](https://github.com/Fahrettinsolak/Rent-A-Car-Projesi/files/15424904/Eagle.pdf)
 
-##Proje İLe İlgili Detaylı Bilgiler:
+## Proje İLe İlgili Detaylı Bilgiler:
 
 
 ![rent1](https://github.com/user-attachments/assets/2caf0026-9320-4085-a180-0de3cb45add8)
